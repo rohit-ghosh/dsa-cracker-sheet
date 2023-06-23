@@ -1,5 +1,10 @@
 # dsa-cracker-sheet
 
+450 problems links:
+https://450dsa.com/
+https://docs.google.com/spreadsheets/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/edit?usp=sharing&ouid=105019633939354806682&rtpof=true&sd=true
+https://www.geeksforgeeks.org/dsa-sheet-by-love-babbar/
+
 Important articles/links
 
 Q3:
