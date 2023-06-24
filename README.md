@@ -29,3 +29,7 @@ Follow the below steps to implement the idea:
     If max_so_far is less than max_ending_here then update max_so_far to max_ending_here and update start to s and end to i .
     If max_ending_here < 0 then update max_ending_here = 0 and s with i+1.
     Print values from index start to end.
+
+### Q9:
+
+https://www.geeksforgeeks.org/minimize-the-maximum-difference-between-the-heights/
