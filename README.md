@@ -23,9 +23,9 @@ To print the subarray with the maximum sum the idea is to maintain start index o
 
 Follow the below steps to implement the idea:
 
-Initialize the variables s, start, and end with 0 and max_so_far = INT_MIN and max_ending_here = 0
-Run a for loop from 0 to N-1 and for each index i:
-Add the arr[i] to max_ending_here.
-If max_so_far is less than max_ending_here then update max_so_far to max_ending_here and update start to s and end to i .
-If max_ending_here < 0 then update max_ending_here = 0 and s with i+1.
-Print values from index start to end.
+    Initialize the variables s, start, and end with 0 and max_so_far = INT_MIN and max_ending_here = 0
+    Run a for loop from 0 to N-1 and for each index i:
+    Add the arr[i] to max_ending_here.
+    If max_so_far is less than max_ending_here then update max_so_far to max_ending_here and update start to s and end to i .
+    If max_ending_here < 0 then update max_ending_here = 0 and s with i+1.
+    Print values from index start to end.
