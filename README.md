@@ -33,3 +33,6 @@ Follow the below steps to implement the idea:
 ### Q9:
 
 https://www.geeksforgeeks.org/minimize-the-maximum-difference-between-the-heights/
+
+### Q12:
+https://www.youtube.com/watch?v=n7uwj04E0I4
